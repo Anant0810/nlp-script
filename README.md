@@ -1,13 +1,8 @@
 # nlp-scripts
 Helper function and scripts for Natural language Processing in Python.
 
-## Pre processing Tweets (preProcessTweets.py)
-This py file has function to pre process tweets: 
+## Folder Utils (Helper function)
 
-  * It removes Hashtags , links and RT (retweet symbol from tweet)
-  
-  * It tokenize the word using TweetTokenizer
-  
-  * It removes stopwords and punctuation.
-  
-  * Last it stems the word using PorterStemmer().
+This Folder contains helper function for nlp task.
+
+  1. process_tweet.py
