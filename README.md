@@ -1,7 +1,7 @@
 # nlp-scripts
 Helper function and scripts for Natural language Processing in Python.
 
-## Folder Utils (Helper function)
+##  Utils (Helper function)
 
 This Folder contains helper function for nlp task.
 
